@@ -1,0 +1,4 @@
+name: pluginCat
+displayName: Adds the ability to change the server map by voting.
+minGameVersion: 150
+hidden: true
